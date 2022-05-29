@@ -11,9 +11,9 @@ Melodify is a facial expression recognition-based music suggestion website that 
 3.	When user clicks on the “songs” button, a html page of that mood opens up with different songs on it , when user selects and click on one song poster , they are redirected to Spotify website.
 
 ## Tech Stack
-Frontend:  Javascript, Html ,CSS
-Backend: Python, Flask
-Libraries: OpenCV, NumPy ,Tensorflow
+**Frontend**:  Javascript, Html ,CSS  <br/>
+**Backend**: Python, Flask  <br/>
+**Libraries**: OpenCV, NumPy ,Tensorflow
 
 ## Prerequisites
 To make sure that this project works well on your device, you need to install some libraries/frameworks/modules:
